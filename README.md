@@ -1,8 +1,6 @@
-# Minicurso Node-RED
+# Objetos Inteligentes Conectados -  Node-RED
 
-Tutorial para preparação do ambiente para o minicurso de Node-RED e execução dos exemplos.
-
-[![Apresentação](assets/minicurso.png)](https://docs.google.com/presentation/d/e/2PACX-1vS9fcNr4xYVpWFEedpadD2dFgkcSIrn0xcxUucQ8o1tKFDXuisT2zPU84L4RNqDEHEjGIgqaMT2cITg/pub?start=false)
+Tutorial para preparação do ambiente para a aula de Node-RED e execução dos exemplos.
 
 ## Instalação Local
 
